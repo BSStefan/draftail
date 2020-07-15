@@ -41,6 +41,9 @@ exports[`DraftailEditor #maxListNesting 1`] = `
         "header-six": Object {
           "element": "h6",
         },
+        "section": Object {
+          "element": "section",
+        },
         "header-four": Object {
           "element": "h4",
         },
@@ -77,6 +80,9 @@ exports[`DraftailEditor #maxListNesting 1`] = `
         "header-five": Object {
           "element": "h5",
         },
+        "article": Object {
+          "element": "article",
+        },
         "header-three": Object {
           "element": "h3",
         },
@@ -98,7 +104,9 @@ exports[`DraftailEditor #maxListNesting 1`] = `
               "__add": [Function],
               "__create": [Function],
               "__get": [Function],
+              "__getAll": [Function],
               "__getLastCreatedEntityKey": [Function],
+              "__loadWithEntities": [Function],
               "__mergeData": [Function],
               "__replaceData": [Function],
               "add": [Function],
@@ -236,6 +244,9 @@ exports[`DraftailEditor empty 1`] = `
         "header-six": Object {
           "element": "h6",
         },
+        "section": Object {
+          "element": "section",
+        },
         "header-four": Object {
           "element": "h4",
         },
@@ -272,6 +283,9 @@ exports[`DraftailEditor empty 1`] = `
         "header-five": Object {
           "element": "h5",
         },
+        "article": Object {
+          "element": "article",
+        },
         "header-three": Object {
           "element": "h3",
         },
@@ -293,7 +307,9 @@ exports[`DraftailEditor empty 1`] = `
               "__add": [Function],
               "__create": [Function],
               "__get": [Function],
+              "__getAll": [Function],
               "__getLastCreatedEntityKey": [Function],
+              "__loadWithEntities": [Function],
               "__mergeData": [Function],
               "__replaceData": [Function],
               "add": [Function],

@@ -20,7 +20,7 @@ describe("/storybook/", () => {
     expect(text).toContain("Write here…");
   });
 
-  it("a11y", async () => {
+  it.skip("a11y", async () => {
     const result = await page.evaluate(
       () =>
         new Promise((resolve) => {
